@@ -1,0 +1,17 @@
+{
+	"name": "kit-remote-form-validate-redirect",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/kit": "3.0.1",
+		"@sveltejs/vite-plugin-svelte": "7.2.0",
+		"svelte": "5.57.2",
+		"typescript": "6.0.3",
+		"vite": "8.3.2"
+	}
+}
